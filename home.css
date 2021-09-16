@@ -1,10 +1,10 @@
-.body {
+body {
     margin: 0;
     font-family: 'prompt', sans-serif;
     color: white;
     background: #202731;
 }
-.section {
+section {
     position: relative;
     display: flex;
     flex-direction: column;
